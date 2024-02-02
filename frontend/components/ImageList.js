@@ -1,4 +1,3 @@
-// components/ImageList.js
 import React from 'react';
 import { Card, CardContent, CardMedia, Button, makeStyles } from '@mui/material';
 
